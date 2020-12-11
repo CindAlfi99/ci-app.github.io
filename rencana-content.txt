@@ -1,6 +1,7 @@
 RENCANA KONTEN
 
 -Js
+#node js
 -sql
 -php fFrameworks
 -java
