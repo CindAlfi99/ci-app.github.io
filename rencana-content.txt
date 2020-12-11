@@ -1,6 +1,7 @@
 RENCANA KONTEN
 
 -Js
+#vue
 -sql
 -php fFrameworks
 -java
